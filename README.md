@@ -1,2 +1,2 @@
 # bluebell_garden
-learn to use Github to build a little digital garden
+learn to use Github to build a digital garden
